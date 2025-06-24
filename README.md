@@ -35,6 +35,10 @@ pip install -U pip
 pip install language-renderer7
 ```
 
+Or Clone With Git
+```bash
+git clone https://github.com/EdenGithhub/LanguageRenderer7
+```
 > ⚠️ Requires Python 3.7+
 
 ---
@@ -145,6 +149,9 @@ MIT License
 ## ✨ Author
 
 Created with ❤️ by `Adam Alcander et Eden`.
+
+Contact : Email = aeden6877@gmail.com
+          GitHub = EdenGithhub
 
 ---
 
